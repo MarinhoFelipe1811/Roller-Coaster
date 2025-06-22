@@ -1,0 +1,12 @@
+# Ambientes Virtuais
+venv/
+/venv/
+*.pyc
+__pycache__/
+
+# Arquivos do VS Code
+.vscode/
+.idea/
+
+# Arquivos de Sistema
+.DS_Store
