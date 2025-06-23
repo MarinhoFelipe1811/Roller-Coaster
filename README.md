@@ -1,4 +1,4 @@
-#  Simulação de Simulação de Montanha-Russa Multithread
+# 🎢 Simulação de Simulação de Montanha-Russa Multithread
 
 ## ⚙️ Conceitos Principais
 O núcleo do projeto é a resolução de um problema clássico de concorrência, similar ao problema do produtor-consumidor, aplicado a um cenário do mundo real:
